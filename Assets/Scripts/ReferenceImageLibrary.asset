@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5437261651290902771
+  m_GuidHigh: 12263128704891332480
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5200075523839375630
+      m_GuidHigh: 10973012941492734909
+    m_SerializedTextureGuid:
+      m_GuidLow: 12859025770989807918
+      m_GuidHigh: 809674832427777274
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Blue Spinner
+    m_Texture: {fileID: 2800000, guid: 0570e92e6fcfb274fa7c6e62f88a3c0b, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5603858404168176405
+      m_GuidHigh: 5136208842143268533
+    m_SerializedTextureGuid:
+      m_GuidLow: 16570014346325698674
+      m_GuidHigh: 10997901029185098984
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Red Spinner
+    m_Texture: {fileID: 0}
